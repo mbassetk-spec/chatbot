@@ -1,0 +1,6 @@
+.git
+.env
+.pytest_cache
+.vscode
+__pycache__
+*.sqlite3
